@@ -1,0 +1,5 @@
+Pedestrian
+Car
+Truck
+Bicycle
+Motorcycle
