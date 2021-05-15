@@ -19,3 +19,10 @@ https://drive.google.com/file/d/1F02p1fw2lBR9FPkj9bMXvfEzbE3wF6FM/view?usp=shari
 
 
 ![weights](https://user-images.githubusercontent.com/81918699/118367065-27fa2880-b5a1-11eb-84c4-ee79221612fa.jpeg)
+
+
+
+File weights after training 750 images, 50 epochs, using metric accuracy because replaced color values of label images by their IDs
+https://drive.google.com/file/d/1-GK69ZfzqpWVjNWpqmYWoRRm2mQboo4z/view?usp=sharing
+
+![image](https://user-images.githubusercontent.com/73364788/118376387-f21c6a80-b5c7-11eb-8bb8-82886e2177e4.png)
