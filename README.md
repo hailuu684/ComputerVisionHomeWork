@@ -5,6 +5,10 @@ https://drive.google.com/file/d/1s4hLlXj9FqWONtT69GJDs_qg1BnOb3Zr/view?usp=shari
 File weights of retrain with 800 images, 100 epochs --> results: bad, mIou:NaN. Fixed the colors' values to their correct ones
 https://drive.google.com/file/d/1QkGb4vQ3uUU68pzrUiTMZdK2UKtjWOxk/view?usp=sharing
 
+![image](https://user-images.githubusercontent.com/73364788/118409121-3a4f9180-b689-11eb-906f-473a1355a5c2.png)
+
+
+
 File weights after training with 1237 images, 32 epochs -->>   test.h5
 
 https://drive.google.com/file/d/1XVdCoQ_GlAM8Lsg5yekChVH50Iy8YxpG/view?usp=sharing
