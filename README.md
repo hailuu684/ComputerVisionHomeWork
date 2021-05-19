@@ -1,7 +1,7 @@
 # ComputerVisionHomeWork
 Each branch consists of one task of the homework
 
-The distribution of the work
+The contribution of the work
 
 Task 1: Luu Tung Hai and Abdul Rehman Shah implemented the flow work of the YOLOv4, we have to label images again because of the limitation in coding, also in the annotation .txt file, it consists of 3D coordinates and using API's yolov4 requires only classes( car:1, pedestrian:2,..) and 2D coordinates.
 
