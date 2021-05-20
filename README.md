@@ -11,7 +11,7 @@ Task 4: In this task, we proposed 2 methods
 
  Luu Tung Hai and Abdul Rehman Shah implemented Ransac algorithm. 
  
- Ahmed implemented HSV color system. Only can extract the road with a number of trials using a track bar.
+ Ahmed suggeseted HSV color system. Only can extract the road with a number of trials using a track bar, but it is not really an algorithm to estimate the freespace automatically, so we did not use it in the final version.
  
  Documentations: Pissolati
         
