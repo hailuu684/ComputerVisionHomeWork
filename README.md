@@ -1,7 +1,9 @@
 # ComputerVisionHomeWork
 
 Final version of the task(Because each one will try our own code, and then choose the best one):
+
 File name: Semantic_Segmentation_3rd_task_.ipynb
+
 File weights: https://drive.google.com/file/d/1bxQ5fUuMkaWzgclWScg6Nxc_zBCA4wbL/view?usp=sharing
 ![image](https://user-images.githubusercontent.com/73364788/118943934-5f2b5980-b954-11eb-9ba6-c43e58a86a8e.png)
 
