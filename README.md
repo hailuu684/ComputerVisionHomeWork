@@ -11,9 +11,9 @@ Task 3: Luu Tung Hai and Abdul Rehman Shah implemented some networks, metrics, t
 
 Task 4: In this task, we proposed 2 methods
 
- Luu Tung Hai and Abdul Rehman Shah implemented Ransac algorithm. 
+ 1. Luu Tung Hai and Abdul Rehman Shah implemented Ransac algorithm. 
  
- Ahmed implemented some transformations using Opencv functions( used filters like Sobel operator and color space thresholding and histogram and sliding windows for line detection and prediction and lane curvature calculations)
+ 2. Ahmed implemented some transformations using Opencv functions( used filters like Sobel operator and color space thresholding and histogram and sliding windows for line detection and prediction and lane curvature calculations)
  
  Documentations: Pissolati
         
