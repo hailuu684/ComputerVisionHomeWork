@@ -1,12 +1,14 @@
 # ComputerVisionHomeWork
-In this task, we proposed 2 methods:
-1. Ransac algorithm
-
-2. Using some transformation of Opencv
-
 The file's name is task4_free_space_detection_without_deepLearning.ipynb for the ransac algorithm.
 
 Ahmed's method for this task: https://colab.research.google.com/drive/1gqOHFOklkYSH3sNHhY-mHp5OfP7z09QZ?usp=sharing( I leave this link here because the size is exceeded 100mb)
+
+In this task, we proposed 2 methods:
+1. Ransac algorithm
+
+2. Using some transformation of Opencv( Ahmed's method to detect the freespace within the lane)
+
+
 
 In this task we used the predicted segmentation images from task 3, then we extracted the pixels which belong to the plane.
 To estimate the free space, we used ransac algorithm.            
