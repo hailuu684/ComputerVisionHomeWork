@@ -1,6 +1,6 @@
 # ComputerVisionHomeWork
 
-The official file's name is free_space_detection_without_deepLearning.ipynb
+The official file's name is task4_free_space_detection_without_deepLearning.ipynb
 
 
 In this task we used the predicted segmentation images from task 3, then we extracted the pixels which belong to the plane.
