@@ -9,12 +9,13 @@ Task 2: We are trying to extract the x,y and z coordinates from the depth images
 
 Task 3: Luu Tung Hai and Abdul Rehman Shah implemented some networks, metrics, then we compared and chose the best results.
 
-Task 4: In this task, we proposed 2 methods
+Task 4: In this task
 
- 1. Luu Tung Hai and Abdul Rehman Shah implemented Ransac algorithm. 
+ Luu Tung Hai and Abdul Rehman Shah implemented Ransac algorithm. 
  
- 2. Ahmed implemented some transformations using Opencv functions( used filters like Sobel operator and color space thresholding and histogram and sliding windows for line detection and prediction and lane curvature calculations)
+ Extra task: 
+ Ahmed implemented some transformations using Opencv functions( used filters like Sobel operator and color space thresholding and histogram and sliding windows for line detection and prediction and lane curvature calculations)
  
- Documentations: Pissolati
+ Documentations: Abdul Rehman Shah , Luu Tung Hai and Pissolati
         
         
